@@ -64,7 +64,7 @@ in
         propagatedBuildInputs = with python3Packages; [
             beautifulsoup4
             cloudscraper
-            GitPython
+            gitpython
             platformdirs
             py7zr
             unrar'
